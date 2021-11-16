@@ -1,0 +1,8 @@
+# Local
+local
+
+# Dependencies
+node_modules
+
+# Build
+dist
